@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://codenginamo.com</loc>
+    </url>
+    
+    
+    <url>
+        <loc>http://codenginamo.com/404</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/about/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/categories/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/featured/</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/feed.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/links.jsonp</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/search.json</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/tags/index.html</loc>
+    </url>
+    
+
+    
+    <url>
+        <loc>http://codenginamo.com/webdevelopment/why-jekyll.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/personal/introducing-notepad.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/theme/documentation.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/theme/readability-feature-post.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/articles/readability-post.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://codenginamo.com/articles/theme-elements.html</loc>
+    </url>
+    
+</urlset>

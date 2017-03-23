@@ -1,0 +1,33 @@
+callback([
+
+  {
+    "text": "Theme Elements",
+    "href": "http://codenginamo.com/articles/theme-elements.html"
+  } ,
+
+  {
+    "text": "Testing Readability with a Bunch of Text",
+    "href": "http://codenginamo.com/articles/readability-post.html"
+  } ,
+
+  {
+    "text": "Post with Cover Image and Text",
+    "href": "http://codenginamo.com/theme/readability-feature-post.html"
+  } ,
+
+  {
+    "text": "Documentation",
+    "href": "http://codenginamo.com/theme/documentation.html"
+  } ,
+
+  {
+    "text": "Introducing Notepad",
+    "href": "http://codenginamo.com/personal/introducing-notepad.html"
+  } ,
+
+  {
+    "text": "Why Jekyll?",
+    "href": "http://codenginamo.com/webdevelopment/why-jekyll.html"
+  } 
+
+])
