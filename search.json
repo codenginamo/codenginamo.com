@@ -1,51 +1,19 @@
 [
 	
 		{
-		  "title"      : "Why Jekyll?",
+		  "title"      : "What is Microft up to now?",
 		  "category"   : "webdevelopment",
-		  "url"        : "http://codenginamo.com/webdevelopment/why-jekyll.html",
-		  "date"       : "2014-07-23 00:00:00 +0400",
-		  "shortdate"  : "July 23, 2014"
+		  "url"        : "http://codenginamo.com/webdevelopment/whats-microft-up-to-now.html",
+		  "date"       : "2017-03-23 00:00:00 +0300",
+		  "shortdate"  : "March 23, 2017"
 		} ,
 	
 		{
-		  "title"      : "Introducing Notepad",
-		  "category"   : "personal",
-		  "url"        : "http://codenginamo.com/personal/introducing-notepad.html",
-		  "date"       : "2014-07-19 00:00:00 +0400",
-		  "shortdate"  : "July 19, 2014"
-		} ,
-	
-		{
-		  "title"      : "Documentation",
-		  "category"   : "theme",
-		  "url"        : "http://codenginamo.com/theme/documentation.html",
-		  "date"       : "2014-06-19 00:00:00 +0400",
-		  "shortdate"  : "June 19, 2014"
-		} ,
-	
-		{
-		  "title"      : "Post with Cover Image and Text",
-		  "category"   : "theme",
-		  "url"        : "http://codenginamo.com/theme/readability-feature-post.html",
-		  "date"       : "2013-05-23 00:00:00 +0400",
-		  "shortdate"  : "May 23, 2013"
-		} ,
-	
-		{
-		  "title"      : "Testing Readability with a Bunch of Text",
-		  "category"   : "articles",
-		  "url"        : "http://codenginamo.com/articles/readability-post.html",
-		  "date"       : "2012-05-22 00:00:00 +0400",
-		  "shortdate"  : "May 22, 2012"
-		} ,
-	
-		{
-		  "title"      : "Theme Elements",
-		  "category"   : "articles",
-		  "url"        : "http://codenginamo.com/articles/theme-elements.html",
-		  "date"       : "2011-03-10 00:00:00 +0300",
-		  "shortdate"  : "March 10, 2011"
+		  "title"      : "Why NodeJS makes no sense",
+		  "category"   : "webdevelopment",
+		  "url"        : "http://codenginamo.com/webdevelopment/nodejs-makes-no-sense.html",
+		  "date"       : "2017-03-12 00:00:00 +0300",
+		  "shortdate"  : "March 12, 2017"
 		} 
 	
 ]
